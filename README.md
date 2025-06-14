@@ -1,1 +1,1 @@
-This is a rock paper scissor project
+This is a rock paper scissor project!
